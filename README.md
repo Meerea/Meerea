@@ -9,7 +9,6 @@
 - Automated UI applications using webDriver selenium - Hybrid Framework
 - Proof of concept on bypassing the UI login through API token 
 - Parallel execution of test scripts using selenium Grid
-- Automating test cases counting to 1000+ in API and UI 
 - CI/CD using jenkins and maven 
 - Automating test cases counting to 1000+ in API and UI 
 
