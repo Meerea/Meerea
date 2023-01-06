@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in UI testing using selenium webdriver, API testing
-- 🌱 I’m currently learning Data structure , 
+- 🌱 I’m currently learning Data structures
 - 💞️ I’m looking to collaborate on Automation/API testing 
 - 📫 How to reach me rerag19@gmail.com
 - Automated UI applications using webDriver selenium - Hybrid Framework
